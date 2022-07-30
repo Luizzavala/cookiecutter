@@ -1,0 +1,8 @@
+{
+    "project_title": "name  of the project",
+    "project_slug": "{{ cookiecutter.projet_title.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_description": "project description",
+    "project_version": "0.1.0",
+    "project_author": "yout name or nick",
+    "python_version": "3.7"
+}

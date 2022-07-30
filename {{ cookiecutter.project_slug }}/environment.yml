@@ -1,0 +1,7 @@
+Title: {{ cookiecutter.project_slug }}
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
